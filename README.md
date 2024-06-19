@@ -1,4 +1,5 @@
-##  🚀 I am happy to share a recent project I've been working on—a powerful **GitHub Profile Scraper** built using Python and Streamlit! 🚀
+## **GitHub Profile Scraper**
+**🚀 I am happy to share a recent project I've been working on—a powerful **GitHub Profile Scraper** built using Python and Streamlit! 🚀**
 
 This tool efficiently fetches detailed information about GitHub users and their repositories, providing insights into repository stats like stars, forks, and open issues through a user-friendly web interface.
 
